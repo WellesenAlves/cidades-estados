@@ -14,6 +14,7 @@ function buscaEstados()
 	ajax.open('GET', 'funcoes.php?acao=buscaEstados', true);
 	
 	ajax.onreadystatechange = function()
+	
 	{
 		if (ajax.readyState == 4)
 		{

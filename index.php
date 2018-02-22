@@ -1,14 +1,5 @@
 <?php
 
-#############################################
-#                                           #
-# Autor: Roberto Beraldo Chaiben (Beraldo)  #
-#    E-Mail: rbchaiben@yahoo.com.br         #
-#                                           #
-#############################################
-
-
-
 if (file_exists('init.php'))
 {
 	require_once 'init.php';

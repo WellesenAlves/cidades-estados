@@ -1,6 +1,7 @@
 
 
 function buscaEstados()
+
 {
 	var uf = document.getElementById('uf');
 	

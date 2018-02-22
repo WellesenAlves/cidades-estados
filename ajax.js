@@ -1,6 +1,7 @@
 
 /* Função para criar o objeto XMLHttpRequest */
 function openAjax()
+
 {
 	try
 	{

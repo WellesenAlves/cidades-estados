@@ -4,6 +4,7 @@ if (file_exists('init.php'))
 {
 	require_once 'init.php';
 }
+
 else
 {
 	exit('Não foi possível encontrar o arquivo de inicialização');

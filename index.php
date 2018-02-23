@@ -26,7 +26,7 @@ else
   </p>
   <p>
     <select name="cidade" id="cidade">
-      <option value="">Primeiramente, selecione o estado</option>
+      <option value="">Selecione o estado</option>
     </select>
   </p>
 </form>

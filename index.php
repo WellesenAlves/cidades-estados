@@ -10,6 +10,7 @@ else
 	exit('Não foi possível encontrar o arquivo de inicialização');
 }
 ?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -26,7 +27,7 @@ else
   </p>
   <p>
     <select name="cidade" id="cidade">
-      <option value="">Selecione o estado</option>
+      <option value="">Estado</option>
     </select>
   </p>
 </form>
